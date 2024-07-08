@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kapitencraft
-- 👀 I’m interested in Minecraft/MCreator
+- 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
