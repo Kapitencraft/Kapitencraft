@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kapitencraft
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently developing Mods for Minecraft
 
 <!---
 Kapitencraft/Kapitencraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
